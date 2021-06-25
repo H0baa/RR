@@ -69,3 +69,6 @@ if __name__ == "__main__":
     ip = input("Give IP address: ")
     netmask = input("Give netmask: ")
     config_interface(inter,ip,netmask)
+
+
+#Dit is een nieuwe regel!
